@@ -3,7 +3,7 @@ __懒人一个～__
 ## 统计卡片
 [![lazychanger's github stats](https://github-readme-stats.vercel.app/api?username=lazychanger)](https://github.com/anuraghazra/github-readme-stats)
 
-## 有想法并且准备去做的
+## 有想法并且准备去做的，欢迎沟通
 ### DBMOCK
 
 - 模拟数据
@@ -15,7 +15,7 @@ __懒人一个～__
     - 并发生成
     - 计划任务
     - 生成计划
-- plugins
+- Plugins
   - DB驱动
     - MYSQL
     - PostSQL
@@ -34,7 +34,7 @@ __懒人一个～__
 ## SSH Terminal
 
 - Service
-  - daemon 化管理
+  - Daemon 化管理
   - SSH分组
     - 基本CRUD
     - 配置继承
